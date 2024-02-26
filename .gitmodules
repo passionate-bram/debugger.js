@@ -1,0 +1,3 @@
+[submodule "engine262"]
+	path = engine262
+	url = https://github.com/passionate-bram/engine262
